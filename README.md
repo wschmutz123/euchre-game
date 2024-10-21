@@ -1,7 +1,5 @@
 In this project I created a a euchre game that can be played in terminal with 1-4 players and also includes an AI player.
 
-Technologies:
-
 Entire program is done in c++
 
 The program includes 4 classes:
