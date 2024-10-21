@@ -5,8 +5,6 @@
  * Represents a pack of playing cards
  * Project UID 1d9f47bfc76643019cfbf037641defe1
  *
- * by Andrew DeOrio <awdeorio@umich.edu>
- * 2014-12-21
  */
 
 

@@ -1,5 +1,5 @@
-// Nathan Hellstedt and Will Schmutz, 2/4/20
-// EECS 280 Project 2, driver program
+// Will Schmutz, 2/4/222
+// Driver program
 #include <iostream>
 #include <cstdlib>
 #include <cassert>
