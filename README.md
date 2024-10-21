@@ -14,4 +14,4 @@ The program includes 4 classes:
     - Class for a player including adding or discarding a card, leading a card, playing a card, making a trump card as well as creating the AI player
 
   - Card:
-    - Includes functions that are needed for a specific card including determining trump card, determine which two cards is better, and the suit of the card
+    - Includes functions that are needed for a specific card including determining trump card, determine which two cards are better, and the suit of the card
